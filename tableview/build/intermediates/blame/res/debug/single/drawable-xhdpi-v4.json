@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dark_sorted_asc.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\src\\main\\res\\drawable-xhdpi\\ic_dark_sorted_asc.png"
+    },
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_light_sorted_asc.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\src\\main\\res\\drawable-xhdpi\\ic_light_sorted_asc.png"
+    },
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_light_sorted_desc.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\src\\main\\res\\drawable-xhdpi\\ic_light_sorted_desc.png"
+    },
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dark_sorted_desc.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\src\\main\\res\\drawable-xhdpi\\ic_dark_sorted_desc.png"
+    },
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_light_sortable.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\src\\main\\res\\drawable-xhdpi\\ic_light_sortable.png"
+    },
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dark_sortable.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview\\src\\main\\res\\drawable-xhdpi\\ic_dark_sortable.png"
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "outputFile": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview_lib\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 44,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview_lib\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 44,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 46,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview_lib\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 46,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 46,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview_lib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 46,
+                        "endOffset": 59
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 57,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview_lib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 57,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 54,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview_lib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 54,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 85,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview_lib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 65,
+                        "endColumn": 85,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview_lib\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\tableview_lib\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]

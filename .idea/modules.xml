@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KalbeAbsen2.iml" filepath="$PROJECT_DIR$/KalbeAbsen2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/badgeall/badgeall.iml" filepath="$PROJECT_DIR$/badgeall/badgeall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cropper/cropper.iml" filepath="$PROJECT_DIR$/cropper/cropper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_PullToRefreshSwipeMenuListView/library_PullToRefreshSwipeMenuListView.iml" filepath="$PROJECT_DIR$/library_PullToRefreshSwipeMenuListView/library_PullToRefreshSwipeMenuListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salesForceLibrary/salesForceLibrary.iml" filepath="$PROJECT_DIR$/salesForceLibrary/salesForceLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tableview/tableview.iml" filepath="$PROJECT_DIR$/tableview/tableview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tableview_lib/tableview_lib.iml" filepath="$PROJECT_DIR$/tableview_lib/tableview_lib.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\salesForceLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\salesForceLibrary\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\salesForceLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_view.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\salesForceLibrary\\build\\intermediates\\exploded-aar\\KalbeAbsen2\\library_PullToRefreshSwipeMenuListView\\unspecified\\res\\drawable-xhdpi-v4\\ic_view.png"
+    },
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\salesForceLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_delete.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\salesForceLibrary\\build\\intermediates\\exploded-aar\\KalbeAbsen2\\library_PullToRefreshSwipeMenuListView\\unspecified\\res\\drawable-xhdpi-v4\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\salesForceLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_notif.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\salesForceLibrary\\build\\intermediates\\exploded-aar\\KalbeAbsen2\\library_PullToRefreshSwipeMenuListView\\unspecified\\res\\drawable-xhdpi-v4\\ic_notif.png"
+    },
+    {
+        "merged": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\salesForceLibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_edit.png",
+        "source": "E:\\ANDROID\\KALBE\\KalbeAbsen2\\salesForceLibrary\\build\\intermediates\\exploded-aar\\KalbeAbsen2\\library_PullToRefreshSwipeMenuListView\\unspecified\\res\\drawable-xhdpi-v4\\ic_edit.png"
+    }
+]

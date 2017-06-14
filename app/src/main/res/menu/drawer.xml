@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/groupListMenu">
+
+        <item
+            android:id="@+id/home"
+            android:checked="true"
+            android:icon="@drawable/ic_home_black"
+            android:orderInCategory="0"
+            android:title="Home"
+            app:actionLayout="@layout/menu_counter"/>
+
+        <!--<item
+            android:id="@+id/soalkuesioner"
+            android:orderInCategory="0"
+            android:title="Kuesioner / Quiz"
+            app:actionLayout="@layout/menu_counter"/>-->
+
+    </group>
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/groupListMenu1">
+
+        <!--<item-->
+            <!--android:id="@+id/quantityStock"-->
+            <!--android:checked="false"-->
+            <!--android:orderInCategory="1"-->
+            <!--android:title="Quantity Stock"-->
+            <!--android:icon="@drawable/ic_looks_one_black"/>-->
+
+        <item
+            android:id="@+id/koordinasiOutlet"
+            android:checked="false"
+            android:orderInCategory="1"
+            android:title="Absen HR"
+            android:icon="@drawable/ic_looks_one_black"/>
+
+    </group>
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/groupListfooter">
+
+        <!--<item
+            android:id="@+id/checkout"
+            android:checked="false"
+            android:orderInCategory="2"
+            android:title="Checkout" />
+        <item
+            android:id="@+id/checkoutVisitplan"
+            android:checked="false"
+            android:orderInCategory="2"
+            android:title="Checkout Visit Plan" />
+
+        <item
+            android:id="@+id/reporting"
+            android:checked="false"
+            android:orderInCategory="2"
+            android:title="Reporting" />
+
+        <item
+            android:id="@+id/historyAbsen"
+            android:checked="false"
+            android:orderInCategory="2"
+            android:title="History Absen" />-->
+
+        <!--<item android:id="@+id/PO"
+            android:checked="false"
+            android:orderInCategory="2"
+            android:title="Purchase Order"/>-->
+
+       <!-- <item android:id="@+id/VP"
+            android:checked="false"
+            android:orderInCategory="2"
+            android:title="Visit Plan"/>-->
+
+
+        <!--<item
+            android:id="@+id/information"
+            android:checked="false"
+            android:orderInCategory="2"
+            android:title="Information" />-->
+
+        <!--<item-->
+            <!--android:id="@+id/pushData"-->
+            <!--android:checked="false"-->
+            <!--android:orderInCategory="2"-->
+            <!--android:title="Push Data" />-->
+
+        <item
+            android:id="@+id/logout"
+            android:checked="false"
+            android:orderInCategory="2"
+            android:title="Logout" />
+    </group>
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/groupVersion">
+
+    </group>
+</menu>

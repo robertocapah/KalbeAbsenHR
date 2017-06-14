@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Robert\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_d07e8857d550862ad8c32e2880b27eea3a72bc87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\KalbeAbsen2\library_PullToRefreshSwipeMenuListView\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f48583d2728591f62cc12ea584816565837d932">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\KalbeAbsen2-library_PullToRefreshSwipeMenuListView-unspecified_7d21a21b6b49d7d2366bdfce67416e65d5cfbe7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\KalbeAbsen2\tableview_lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d071ab06b6e91caffadcaf81198d0dc925255097">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\KalbeAbsen2-tableview_lib-unspecified_02a92dee1e0fdb302c675c03cce136ce277398ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\ch.acra\acra\4.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c96d8441fa3e6429525e89628f171cb54d2b61c1">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\ch.acra-acra-4.7.0_7a6104813d4325819d4a26015949bd595aa746c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\KalbeAbsen2\cropper\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c54a8d66ae52e7551885fc516cdd90b4b521d87">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\KalbeAbsen2-cropper-unspecified_2d42583b1613a854fae841ac2336eb0fbcfaacca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\io.github.yavski\fab-speed-dial\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2b14dd04eee1b284a47d3cdd1562d4f448514c0">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\io.github.yavski-fab-speed-dial-1.0.4_18abd6fac802ae56274f1dd5c7fcca8f8225f142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-1.3.0_2610b0fb2fbb9144af0964ec63b91b123223be4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Robert\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\picasso-2.3.2_973420aa4b9e89a452e5204f9bfac15a29180797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_dec5f1b9ab1951c881703f59db4296a02299c308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.2_c9bb4d74ffd5b1ccd48b22b15a9ad4b15f18034f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Robert\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\library-2.4.0_bdda8f429084d91a1a71c274f78f4bfb827d9d82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\KalbeAbsen2\salesForceLibrary\unspecified\jars\libs\json-simple-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="397e18dd99731952dcb47bff4c9245af86854886">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1_805dacaefa67ae5f56628b34f2a267fe4cbab589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_5558480f0e6b6ed74413b3b236eb229a948abdb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_11867745003de8ddfafd7aabfc319c47a3bedf55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.owater.library\CircleTextViewlibrary\0.8.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d1c2c9387a3213136a3df359d398d775e13dc20">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.owater.library-CircleTextViewlibrary-0.8.3_4826fd0cb0e4f2e2bd440ddd1d51c1637b151437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_7b1b1f693461cc1daaa40d8084a9b75d9dfe029f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.2_ba44e48eb752cb676f6c7d6fe7961383fc1d8754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.github.barteksc\pdfium-android\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c17272eb894dcb4217871365757ba21f605d35e8">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.github.barteksc-pdfium-android-1.4.0_b286ad04c9fd9c2c8dc368265c2d1e871477794b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_e72d64bcd6c9b30e9cc028455b0c693921d28354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_c0f899e5b039a7a76d77d0fe4a3480a8d8a699dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\KalbeAbsen2\salesForceLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d57a124bcc5003ab79804775c6ba7954b962a9cf">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\KalbeAbsen2-salesForceLibrary-unspecified_669874180047666147e9e4e2e271e19b32086847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_5176f570b9f427b28b4d97a5fa60d0bb9d2a48a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.github.amlcurran.showcaseview\library\5.4.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a06b0579dbe59192ef460e3de04657720925d05b">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.github.amlcurran.showcaseview-library-5.4.3_35cd8ffde214cdb726148d0640cc79465f626d09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.2_016d56950c42468b19ed6ce572d2e9401b1fb44e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_f8b703621da27e6bb8639e404c750d7c4172f6a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_365e0e66be8ebc989f304218c56111fb313aa1bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_e340e3fabd33d5a837d8d1792cff5cf4c52e0e58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_e552601d2fdeed820f3307c6eb5ad003b51ad492.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\KalbeAbsen2\badgeall\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c145336c998400ad6a0ec3027e3f7f36384c1d0">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\KalbeAbsen2-badgeall-unspecified_7d6f4a34ce9526ca46666799487807a3bd6f0b04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_7e9f565146f837394caaf352901a8fcb48a3503a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.github.barteksc\android-pdf-viewer\2.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="930d951d620e33cc761148fc880459eec564a3b5">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.github.barteksc-android-pdf-viewer-2.0.3_0d1ba5b1a7a841ff1f8061c142ea453d05ecfc75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.github.chenupt.android\springindicator\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7c43c8ddfc4ae2091a33f2882927bb4e3e2fee2">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.github.chenupt.android-springindicator-1.0.2_867297679bde895dc3a17f2e496f8d1da395f7be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_2f4ec19cd265f65724f434ae77b550352acc9703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="E:\ANDROID\KALBE\KalbeAbsen2\app\build\intermediates\pre-dexed\debug\com.daimajia.slider-library-1.1.5_9fdba62e9fac948bf1e57de253d2367776e01f37.jar" />
+    </item>
+
+</items>
